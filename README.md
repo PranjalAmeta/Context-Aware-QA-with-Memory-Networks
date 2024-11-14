@@ -19,4 +19,7 @@
 ## Model Evaluation
   + To evaluate the model's performance, we utilized the attention weights to see how our model assigned the weights to inference the answer from.
   + Sentences having higher attention weights are more likely to contain answer to the questions.
- 
+
+## Refrences
+ + Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus, "End-To-End Memory Networks," 2015.
+ + Facebook bAbI Dataset - A set of synthetic QA tasks that evaluate a model's reasoning ability
